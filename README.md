@@ -209,3 +209,5 @@ Verify the changes
 5. neural_network.ipynb
 6. nlp_libraries.ipynb
 7. nlp_project.ipynb
+
+**I wish you all the best**
